@@ -42,7 +42,7 @@ This script will:
  the service.
 
 <div class="doc-callout">
-<div style="float: left; margin-right: 10px;margin-bottom: 40px;">
+<div style="margin-right: 10px;margin-bottom: 10px;">
 <img src="/images/logos/raspberrypi.svg" height="30">
 **Note**: As of Node v24 there are NO 32 bit builds available - so armv6 based Pi devices will no longer be supported.
 </div>
